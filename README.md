@@ -5,7 +5,7 @@ This guide is written to help players learn how to play legacy versions of the g
 **THIS IS NOT A PIRACY GUIDE THIS WILL ONLY WORK IF YOU HAVE A OFFICAL COPY PURCHASED THROUGH STEAM** <br>
 **ANY SAVE CORRUPTION / LOSS WILL NOT BE SUPPORTED THROUGH KINETIC SO IT IS REQUIRED TO BACK UP YOUR SAVE FILE BEFORE PROCEEDING WITH THIS GUIDE**
 
-I take zero responsiblity for corruption or being banned. Before playing on the newest version load up your orginal save file.
+I take zero responsiblity for corruption or being banned. Before playing on the newest version load up your orginal save file. **DO NOT USE YOUR LEGACY SAVE FILE ON THE OFFICAL VERSION**
 ## Why Can' I Access Legacy Versions By Normal Means?
 The reason behind Kinectic making downgrading your game via normal means not possible is due to royality rights of assets, royalties are what the developer pays in % per a copy of the game sold. So making it impossible by normal means to downgrade and updating the maps, it will remove the need for kinetic to pay royalties to the authors of the assets used in older versions. Originally Phasmophobia was developed by Daniel Knight and it is common for developers to pay to designers for assets. 
 
